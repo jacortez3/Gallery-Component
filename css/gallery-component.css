@@ -1,0 +1,13 @@
+  /** THEME
+  ===================================*/
+  .bx-wrapper {
+	-moz-box-shadow: 0 0 5px #ccc;
+	-webkit-box-shadow: 0 0 5px #ccc;
+	box-shadow: 0 0 5px #ccc;
+	border: 15px solid ;
+	border-radius: 15px;
+	background: #fff;
+  }
+
+  
+  
